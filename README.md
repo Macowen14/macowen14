@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mac Owen</h1>
+<h1 align="center">Hi 👋, I'm Macowen Keru</h1>
 <h3 align="center">🚀 Developer who turns ideas into stunning apps with React Native, Tailwind & Python</h3>
 
 <p align="center">
