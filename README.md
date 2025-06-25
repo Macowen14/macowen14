@@ -13,7 +13,7 @@
 - 🧰 Tech Stack: `React` `React Native` `TailwindCSS` `JavaScript` `Python` `Supabase` `Custom APIs`
 - ⚙️ I focus on: Offline-first design, fast UX, and real-world impact
 - 📚 Learning: Advanced backend architecture, app deployment automation
-- 📨 Reach me: [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/macowen-keru-933ba0302)) | [Email](mailto:macowenkeru@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/macowen-keru-933ba0302) | [Email](mailto:macowenkeru@gmail.com)
 
 ---
 
@@ -38,7 +38,6 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&theme=radical" />
@@ -47,7 +46,7 @@
 ---
 
 ### 🐍 Contribution Snake Graph
-![snake gif](https://github.com/macowen/macowen14/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
 ---
 
@@ -57,15 +56,14 @@
 ---
 
 ### 🧠 Fun Facts
-- 🛠 I build apps that work without the internet.
-- 🎨 I design with Tailwind and animate with Reanimated.
-- 🧩 I love solving problems that impact real people.
+- 🛠 I build apps that work without the internet
+- 🎨 I design with Tailwind and animate with Reanimated
+- 🧩 I love solving problems that impact real people
 
 ---
 
 ### 🔗 Let's Connect
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:macowenkeru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/macowen-keru-933ba0302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
