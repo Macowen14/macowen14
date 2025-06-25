@@ -40,14 +40,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=macowen&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&theme=radical" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake Graph
-![snake gif](https://github.com/macowen/macowen/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/macowen/macowen14/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
