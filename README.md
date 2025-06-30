@@ -122,5 +122,3 @@ I believe in:
 
 ---
 ```
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
