@@ -119,3 +119,8 @@ I believe in:
 
 📫 Let's Connect
 <p align="center"> <a href="mailto:macowenkeru@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/macowen-keru-933ba0302"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Macowen14"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" /> </p> 
+
+---
+```
+🐍 Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
