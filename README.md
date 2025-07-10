@@ -86,7 +86,7 @@ Emergency assistance application with:
 ```
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,python,nodejs,express,firebase,supabase,mongodb,git,github,vscode,figma,aws,docker,postman,redux,nextjs" /> </p> <div align="center"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,python,nodejs,express,firebase,supabase,mongodb,git,github,vscode,figma,aws,docker,postman,redux,nextjs" /> </p> <div align="center"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> </div>
 
 📊 GitHub Stats
 <p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macowen14&layout=compact&theme=radical&hide=html,css" /> <img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&theme=radical" /> </p>
