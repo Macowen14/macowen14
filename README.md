@@ -58,7 +58,7 @@ Emergency assistance application with:
 </p>
 
 <div align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" />
+  <img height="40" src="https://cdn.simpleicons.org/expo/000000" alt="Expo" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
 </div>
 
@@ -78,7 +78,7 @@ Emergency assistance application with:
 
 ## 🐍 Contribution Graph
 
-![Contribution Graph](https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg)
+![GitHub Snake](./dist/github-contribution-grid-snake.svg)
 
 ---
 
