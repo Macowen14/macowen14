@@ -78,7 +78,9 @@ Emergency assistance application with:
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake](./dist/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+
 
 ---
 
