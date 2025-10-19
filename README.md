@@ -76,12 +76,6 @@ Emergency assistance application with:
   
 </div>
 
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/macowen14/macowen14/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
-
 ---
 
 ## 💡 Development Philosophy
