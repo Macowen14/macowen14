@@ -23,32 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 Wallpaper App
-A beautiful wallpaper browsing experience with:
-- 🖼️ Category-based organization
-- ⚡ Optimized image loading
-- 📲 Offline caching
-- 🔄 Background sync
-- 🔍 Advanced search
-
-### 📚 BookWorm App
-Intelligent book discovery platform featuring:
-- 📊 Personalized recommendations
-- 🏷️ Smart tagging system
-- 📖 Reading progress tracking
-- 👥 Social sharing features
-- 🔄 Sync across devices
-
-### 🧭 Community Aid App
-Emergency assistance application with:
-- ⚠️ Real-time alerts
-- 📍 Location services
-- 🆘 SOS functionality
-- 🤝 Community support
-- 📶 Offline capability
-
 ---
 
 ## 🛠️ Tech Stack
