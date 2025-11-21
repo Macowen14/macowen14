@@ -1,97 +1,35 @@
 <h1 align="center">Hi 👋, I'm Macowen Keru</h1>
-<h3 align="center">🚀 Developer who turns ideas into stunning apps with React Native, Tailwind & Python</h3>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38BDF8&width=435&lines=React+Native+Specialist;TailwindCSS+Wizard;Python+Backend+Developer;UI%2FUX+Enthusiast;Problem+Solver;Turning+Ideas+Into+Reality&center=true" alt="Typing animation" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macowen14" alt="macowen14" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/macowenk" target="blank"><img src="https://img.shields.io/twitter/follow/macowenk?logo=twitter&style=for-the-badge" alt="macowenk" /></a> </p>
+
+- 🌱 I’m currently learning Python for Machine Learning **PyTorch , TensaFlow**
+
+- 👨‍💻 All of my projects are available at [https://macowen-portfolio.vercel.app/](https://macowen-portfolio.vercel.app/)
+
+- 💬 Ask me about **react, Django, express, JavaScript, tailwindcss, HTML, CSS, React Native**
+
+- 📫 How to reach me **macowenkeru@gmail.com / mwingamacowen@gmail.com**
+
+- ⚡ Fun fact **I do play chess and like riding bicycles for leisure**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/macowenk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macowenk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/macowen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macowen" height="30" width="40" /></a>
+<a href="https://fb.com/macowen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="macowen" height="30" width="40" /></a>
+<a href="https://instagram.com/macowen.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="macowen.k" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+about+creating+impactful+solutions;Building+performant+mobile+applications;Focused+on+clean+code+and+great+UX;Always+learning+and+growing" alt="Typing SVG" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=macowen14&show_icons=true&locale=en&layout=compact" alt="macowen14" /></p>
 
-## 🌟 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&locale=en" alt="macowen14" /></p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-- 🔭 Currently working on: **Wallpaper App**, **BookWorm App**, and **Community Aid App**
-- 🌱 Learning: **Microservices architecture**, **CI/CD pipelines**, **Advanced animations**
-- 💬 Ask me about: **React Native optimization**, **Tailwind best practices**, **Python backend integration**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/macowen-keru-933ba0302) | [Email](mailto:macowenkeru@gmail.com)
-
----
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,python,nodejs,express,firebase,supabase,mongodb,git,github,vscode,figma,aws,docker,postman,redux,nextjs" /> 
-</p>
-
-<div align="center">
-  <img height="40" src="https://cdn.simpleicons.org/expo/000000" alt="Expo" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Macowen's GitHub stats" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macowen14&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-  
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&theme=radical" alt="GitHub Streak" />
-  
-</div>
-
----
-
-## 💡 Development Philosophy
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
-<p align="center"> 
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" /> 
-</p>
-
-I believe in:
-- ✅ Clean, maintainable code
-- 🚀 Performance-first approach
-- � Continuous learning
-- 🤝 Open collaboration
-- 💎 Attention to detail
-
----
-
-## ✨ Fun Facts
-- 🧩 I enjoy solving complex problems with elegant solutions
-- ☕ I'm a coffee enthusiast who brews my own pour-over
-- 🎮 When not coding, I play strategy games and chess
-- 🎸 I'm learning to play guitar in my spare time
-- 🌍 Passionate about building tech for social impact
-
----
-
-## 📫 Let's Connect
-
-<p align="center"> 
-  <a href="mailto:macowenkeru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> 
-  <a href="https://www.linkedin.com/in/macowen-keru-933ba0302">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  <a href="https://github.com/Macowen14">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> 
-</p> 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" /> 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&" alt="macowen14" /></p>
