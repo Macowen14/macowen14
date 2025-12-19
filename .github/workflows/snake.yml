@@ -1,20 +1,27 @@
-name: generate animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # runs every 24 hours
+    # Runs at midnight every day
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,12 +31,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push the generated files to the "output" branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-4. Commit this file. After a few minutes, the workflow will run, create the `output` branch, and the snake in your README will finally appear!
