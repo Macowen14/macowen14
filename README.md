@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Self-Taught Developer proficient in React, Node.js, and Python.<br>I do use modern and best tools for my development. check them below .<br><br>🧠 Currently diving deep into AI Engineering to integrate intelligent models into modern apps.<br><br>📱 Mobile developer specializing in React Native and Flutter.<br><br>♟️ In my free time, I enjoy playing chess and reading novels.<br><br>💬 Ask me about: Production-level development, scaling apps, or learning strategies.
+🔭 I’m a Full Stack Self-Taught Developer proficient in React, Node.js, and Python.<br>I do use modern and best tools for my development. check them below .<br><br>🤖 Current Focus: I am diving deep into AI Engineering, specifically learning to integrate AI models and LLMs into modern apps using tools like LangChain.<br><br>📱 Mobile developer specializing in React Native and Flutter.<br><br>♟️ In my free time, I enjoy playing chess and reading novels.<br><br>💬 Ask me about: Production-level development, scaling apps, or learning strategies.
 
 
 ## 🌐 Socials:
