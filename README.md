@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macowen Keru</h1>
 <h3 align="center">A passionate software developer / cyber-security enthusiast from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macowen14" alt="macowen14" /></a> </p>
 
