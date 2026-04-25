@@ -14,7 +14,7 @@
 * **Current Projects:** Building custom steganography tools and integrating AI into specialized workflows.
 
 ### Skills & Tech Stack
-* **Languages:** Python, Go, Bash
+* **Languages:** Python, Go, Bash, React, Fullstack dev
 * **Cybersecurity:** Network Security Auditing, Penetration Testing, Steganography, OSINT
 * **DevOps/Infrastructure:** Docker, Nginx, Linux (Systemd, Kernel Modules)
 * **Frameworks/GUI:** PyQt6/PySide6, Flask, Django
