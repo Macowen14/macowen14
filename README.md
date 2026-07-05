@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Macowen Keru</h1>
-<h3 align="center">Software Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Developer | Cybersecurity Enthusiast | computer vision expert | student nurse</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Macowen14&label=Profile%20views&color=0e75b6&style=flat" alt="macowen14" />
@@ -11,14 +11,13 @@
 * **Focus:** Bridging the gap between robust software engineering and defensive security.
 * **Specialization:** Python development, RAG system integration, and Linux-based security auditing.
 * **Technical Environment:** Heavily reliant on Linux (Parrot OS/Fedora) for development, penetration testing, and infrastructure management.
-* **Current Projects:** Building custom steganography tools and integrating AI into specialized workflows.
 
 ### Skills & Tech Stack
-* **Languages:** Python, Go, Bash, React, Fullstack dev
+* **Languages:** Python, Go, Bash, React, Fullstack dev, Flutter
 * **Cybersecurity:** Network Security Auditing, Penetration Testing, Steganography, OSINT
 * **DevOps/Infrastructure:** Docker, Nginx, Linux (Systemd, Kernel Modules)
 * **Frameworks/GUI:** PyQt6/PySide6, Flask, Django
-* **Tools:** Git, Postman
+* **Tools:** Git, Postman, Docker
 
 ---
 
