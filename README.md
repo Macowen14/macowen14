@@ -47,18 +47,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macowen14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="macowen14 top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=macowen14&show_icons=true&locale=en&theme=tokyonight" alt="macowen14 stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macowen14&theme=tokyonight" alt="macowen14 streak" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Macowen14&theme=tokyonight&row=1&column=7" alt="macowen14 trophies" /></a>
-</p>
+ [![Macowen14's GitHub stats](https://github-stats-extended.vercel.app/api?username=Macowen14)](https://github.com/stats-organization/github-stats-extended)
+ [![trophy](https://macowen-trophy.onrender.com/?username=Macowen14&theme=tokyonight)](https://macowen-trophy.onrender.com/)
 
 <!-- Animated contribution snake — see setup note below -->
 <p align="center">
