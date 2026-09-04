@@ -34,11 +34,13 @@
 ### 🧰 Skills & Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,react,flutter,dart,linux,docker,nginx,git,postman,flask,django,fastapi,postgres&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,react,flutter,dart,linux,docker,nginx,git,postman,flask,django,fastapi,postgres&perline=8" alt="tech stack" />
 </p>
 
-**Cybersecurity:** Web AppSec · Penetration Testing · OSINT · Steganography · Burp Suite / Turbo Intruder
-**DevOps/Infra:** Docker · Nginx · Linux (Systemd, Kernel Modules)
+**Cybersecurity:** Web AppSec · Penetration Testing · OSINT · Steganography · Burp Suite / Turbo Intruder.
+
+**DevOps/Infra:** Docker · Nginx · Linux (Systemd, Kernel Modules).
+
 **GUI/Frameworks:** PyQt6 / PySide6 · Flask · Django · FastAPI
 
 ---
